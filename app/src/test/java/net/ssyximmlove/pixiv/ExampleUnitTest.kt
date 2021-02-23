@@ -1,4 +1,4 @@
-package com.example.maPluginTemplate
+package net.ssyximmlove.pixiv
 
 import org.junit.Test
 
